@@ -13,9 +13,9 @@ editor_options:
 ------------------------------------------------------------------------
 
 ```         
-                              Sebastian Ochoa 
-                              Andrea Valiente 
-                                   UMNG 
+                                          Procesamiento de señales
+                                          Profesora: Carolina Corredor
+                                          UMNG 
 ```
 
 ------------------------------------------------------------------------
