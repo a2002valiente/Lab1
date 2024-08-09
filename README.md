@@ -13,9 +13,9 @@ editor_options:
 ------------------------------------------------------------------------
 
 ```         
-                   Sebastian Ochoa 
-                    Andrea Valiente 
-                           UMNG 
+                              Sebastian Ochoa 
+                              Andrea Valiente 
+                                   UMNG 
 ```
 
 ------------------------------------------------------------------------
@@ -100,7 +100,7 @@ ruidos con la señal original
 
     \`\`\`
 
-![Señal ECG con patologia cardiacas](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20014130.png){width="400"}
+![Señal ECG con patologia cardiacas](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20014130.png)
 
 3.Calculamos los datos estadisticos de dos maneras diferentes cuando fue
 posible desde cero y haciendo uso de las funciones predefinidas de
@@ -174,7 +174,7 @@ python ,los datos que obtuvimos fueron los siguientes:
 
 -   Valores obtenidos con el código
 
-![Valores obtenidos](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20015434.png)
+![Valores obtenidos](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20015434.png)
 
 ------------------------------------------------------------------------
 
@@ -197,7 +197,7 @@ python ,los datos que obtuvimos fueron los siguientes:
 
 -   Grafico del histograma
 
-![Histograma creado desde cero](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20020059.png)
+![Histograma creado desde cero](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20020052.png)
 
 ***Calculos realizados con funciones***
 
@@ -222,8 +222,8 @@ python ,los datos que obtuvimos fueron los siguientes:
     print("\n")
 ```
 
-![Histograma con funciones](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20020906.png)
-![Resultado calculos con funciones](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20020918.png)
+![Histograma con funciones](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20020906.png)
+![Resultado calculos con funciones](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20020918.png)
 
 4.Para la contaminación la señal ECG se utilizaron 3 tipos de ruidos el
 Gaussiano,de imulso ,de artefacto y asi generar una funcion que
@@ -260,7 +260,7 @@ la señal adquirida.
      print("\n")
     ```
 
-![Resultado de la poencia de la señal:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20021724.png)
+![Resultado de la potencia de la señal:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20021724.png)
 
 **RUIDO GAUSSIANO**
 
@@ -282,7 +282,7 @@ la señal adquirida.
 
 -   Acontinuación se muestra la grafica del ruido Gaussiano
 
-![Grafica del ruido Gaussiano:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20021909.png)
+![Grafica del ruido Gaussiano:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20021909.png)
 
 -   Medimos la potencia del ruido Gaussiano y a la señal ECG para
     encontrar el SNR positivo y negativo
@@ -331,13 +331,13 @@ la señal adquirida.
     ruido y las graficas resultados de los SNR tanto para el postivo
     como el negativo.
 
-![Resultado de la potencia del ruido Gaussiano y SNR 1:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20022727.png)
+![Resultado de la potencia del ruido Gaussiano y SNR 1:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20022727.png)
 
-![Grafica señal contaminada con ruido Gaussiano y SNR negativo:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20022739.png)
+![Grafica señal contaminada con ruido Gaussiano y SNR negativo:](Chttps://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20022739.png)
 
-![Resultado de la potencia del ruido Gaussiano y SNR 2:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20023451.png)
+![Resultado de la potencia del ruido Gaussiano y SNR 2:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20023451.png)
 
-![Grafica señal contaminada con ruido Gaussiano y SNR positivo:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20023459.png)
+![Grafica señal contaminada con ruido Gaussiano y SNR positivo:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20023459.png)
 
 Para las señales de ruido Gaussiano cuando el ruido es menor que la
 señal en amplitud obtenemos un SNR positivo, en cambio cuando el ruido
@@ -367,7 +367,7 @@ las imagenes.
 
 -   Acontinuación se muestra la grafica del ruido de impulso
 
-![Grafica del ruido impulso:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20023800.png)
+![Grafica del ruido impulso:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20023800.png)
 
 -   Medimos la potencia del ruido de potencia y a la señal ECG para
     encontrar el SNR positivo y negativo
@@ -406,12 +406,12 @@ las imagenes.
     graficas, a continuacion se muestran los resultados y graficas del
     SNR negativo y postivo.
 
-![Resultado de la potencia del ruido impluso y SNR3](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20024233.png)
+![Resultado de la potencia del ruido impluso y SNR3](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20024233.png)
 
-![Grafica señal contaminada con ruido impulso y SNR negativo](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20024241.png)
+![Grafica señal contaminada con ruido impulso y SNR negativo](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20024241.png)
 
-![Resultado de la potencia del ruido impluso y SNR4](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20025532.png)\
-![Grafica señal contaminada con ruido impulso y SNR positivo](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20025423.png)
+![Resultado de la potencia del ruido impluso y SNR4](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20025532.png)
+![Grafica señal contaminada con ruido impulso y SNR positivo](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20025353.png)
 
 Se noto que la señal del ruido de impulso cuando se incrementa su
 amplitud y es mayor que la amplitud de la señal limpia o visceversa el
@@ -440,7 +440,7 @@ convierte los 43201 valores en 1.
 
 -   Acontinuación se muestra la grafica del ruido de artefacto
 
-![Grafica del ruido artefacto](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20025808.png)
+![Grafica del ruido artefacto](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20025808.png)
 
 -   Medimos la potencia del ruido de artefacato y a la señal ECG para
     encontrar el SNR positivo y negativo
@@ -472,9 +472,9 @@ convierte los 43201 valores en 1.
 -   Obteniendo asi el valor de estas medidas y ademas la suma de las dos
     graficas.
 
-![Grafica de la señal contaminada con ruido artefacto y SNR negativo](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20030206.png)
-![Grafica de la señal contaminada con ruido artefacto y SNR positivo](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20030313.png)
-![SNR infinito:](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20030426.png)
+![Grafica de la señal contaminada con ruido artefacto y SNR negativo](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20030206.png)
+![Grafica de la señal contaminada con ruido artefacto y SNR positivo](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20030313.png)
+![SNR infinito:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20030426.png)
 
 Se pudo observar que al disminuir el valor de la amplitud de la señal
 del ruido artefacto al momento de graficarla y sumarla a la señal ECG.
