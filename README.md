@@ -5,7 +5,7 @@ date: "2024-08-09"
 output: html_document
 editor_options: 
   markdown: 
-    wrap: 72
+    wrap: 60
 ---
 
 ***LABORATORIO 1: Análisis estadístico de la señal***
@@ -13,8 +13,9 @@ editor_options:
 ------------------------------------------------------------------------
 
 ```         
-                                          Procesamiento de señales
-                                          Profesora: Carolina Corredor
+                                          Procesamiento digiatal de señales
+                                          Carolina Corredor
+                                          BMED B  
                                           UMNG 
 ```
 
