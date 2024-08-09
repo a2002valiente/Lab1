@@ -13,9 +13,9 @@ editor_options:
 ------------------------------------------------------------------------
 
 ```         
-                                                                                                                  Sebastian Ochoa 
-                                                                                                                  Andrea Valiente 
-                                                                                                                        UMNG 
+                   Sebastian Ochoa 
+                    Andrea Valiente 
+                           UMNG 
 ```
 
 ------------------------------------------------------------------------
@@ -100,7 +100,7 @@ ruidos con la señal original
 
     \`\`\`
 
-![Señal ECG con patologia cardiacas](C:/Users/seeba/Pictures/Screenshots/Captura%20de%20pantalla%202024-08-09%20014130.png){width="400"}
+![Señal ECG con patologia cardiacas](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20014130.png){width="400"}
 
 3.Calculamos los datos estadisticos de dos maneras diferentes cuando fue
 posible desde cero y haciendo uso de las funciones predefinidas de
