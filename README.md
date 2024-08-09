@@ -224,7 +224,7 @@ python ,los datos que obtuvimos fueron los siguientes:
 
 ![Histograma con funciones](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20020906.png)
 
-/////
+\`\`\`
 ![Resultado calculos con funciones](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20020918.png)
 
 4.Para la contaminación la señal ECG se utilizaron 3 tipos de ruidos el
@@ -409,10 +409,11 @@ las imagenes.
     SNR negativo y postivo.
 
 ![Resultado de la potencia del ruido impluso y SNR3](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20024233.png)
-
+\`\`\`
 ![Grafica señal contaminada con ruido impulso y SNR negativo](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20024241.png)
-
+\`\`\`
 ![Resultado de la potencia del ruido impluso y SNR4](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20025532.png)
+\`\`\`
 ![Grafica señal contaminada con ruido impulso y SNR positivo](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20025353.png)
 
 Se noto que la señal del ruido de impulso cuando se incrementa su
