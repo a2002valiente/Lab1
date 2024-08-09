@@ -223,6 +223,8 @@ python ,los datos que obtuvimos fueron los siguientes:
 ```
 
 ![Histograma con funciones](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20020906.png)
+
+/////
 ![Resultado calculos con funciones](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20020918.png)
 
 4.Para la contaminación la señal ECG se utilizaron 3 tipos de ruidos el
@@ -333,7 +335,7 @@ la señal adquirida.
 
 ![Resultado de la potencia del ruido Gaussiano y SNR 1:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20022727.png)
 
-![Grafica señal contaminada con ruido Gaussiano y SNR negativo:](Chttps://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20022739.png)
+![Grafica señal contaminada con ruido Gaussiano y SNR negativo:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20022739.png)
 
 ![Resultado de la potencia del ruido Gaussiano y SNR 2:](https://github.com/SeebastianOchoa/Graficas-Imagenes/blob/65c9bd1e625e070822f4e103c6e572564ee0ba9a/Captura%20de%20pantalla%202024-08-09%20023451.png)
 
